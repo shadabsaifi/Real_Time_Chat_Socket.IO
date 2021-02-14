@@ -4,21 +4,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Please find below the socket.io version
 
-npm i --save socket.io@2.3.0 for server side
+Server side `npm i --save socket.io@2.3.0`
 
-npm i --save socket.io-client@2.3.0 for client side
+Client side `npm i --save socket.io-client@2.3.0`
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Start
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `npm Start`
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `ng build --configuration=staging` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prodoction` flag for a production build.
 
 ## Running unit tests
 
