@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Please find below the socket.io version
 
 npm i --save socket.io@2.3.0 for server side
+
 npm i --save socket.io-client@2.3.0 for client side
 
 ## Development server
